@@ -43,4 +43,31 @@ MIT License - 자유롭게 사용하세요!
 
 ---
 
+
+### 🐍 Snake Game
+
+인기 있는 Snake 게임입니다! 화살표 키로 뱀을 조종해서 음식을 먹고 점수를 올리세요!
+
+**플레이 방법:**
+- 화살표 키(↑↓←→)로 뱀 이동
+- 빨간 음식을 먹으면 점수 획득 (10점)
+- 뱀이 커지고 속도 증가
+- 벽이나 자기 자신과 충돌하면 게임 오버!
+
+**게임 특징:**
+- 부드러운 그라디언트 배경
+- 점수 및 최고 기록 자동 저장 (LocalStorage)
+- 반응형 디자인
+- 실시간 게임 루프
+
+**게임 시작:**
+```bash
+# 로컬에서 실행
+open snake-game.html
+```
+
+또는 GitHub Pages로 직접 플레이:
+[🐍 Snake 게임 플레이하기](https://eentost.github.io/toy/snake-game.html)
+
+
 **Made with ❤️ by eentost**
